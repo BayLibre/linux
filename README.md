@@ -9,5 +9,6 @@ Example Workflow for sync with arm-soc Amlogic tree and Clock Framework tree :
 ![pageres](clk-meson-workflow.png)
 
 
-Mailing-list: linux-amlogic(at)lists.infradead.org 
+Mailing-list: linux-amlogic(at)lists.infradead.org
+
 Website: http://linux-meson.com
